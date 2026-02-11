@@ -1,9 +1,5 @@
 # Core Math Library (OOP Implementation)
 
-**Student Name:** [Your Name]  
-**Course:** Object-Oriented Programming  
-**Date:** [Current Date]
-
 ## 📌 Project Overview
 This project is a modular **Core Math Library** designed to demonstrate **Object-Oriented Programming (OOP)** principles such as **Encapsulation**, **Inheritance**, and **Class Hierarchy**. 
 
