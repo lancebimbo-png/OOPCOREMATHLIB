@@ -11,3 +11,4 @@ The library allows users to perform various mathematical computations including 
 - **Number Analysis:** Prime Check, Factorial, Even/Odd Check.
 - **OOP Design:** Uses a base class `MathOperation` for shared logic and derived classes for specific tasks.
 
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/397b5317-2965-40bf-9901-05a590b52c58" />
